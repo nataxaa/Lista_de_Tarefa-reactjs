@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 <h1 align="center">
-  <img alt="Calculadora" title="#delicinha" src="github/logo.png" width="200px"/>
+  <img alt="Calculadora" title="#delicinha" src=".github/logo.png" width="200px"/>
 </h1>
 
 <h1 align="center">Lista de Tarefa</h1>
@@ -35,7 +35,7 @@ Projeto de uma lista de terefa feita em ReactJs com TypeScript
 ## 🌐 Preview
 
 <h1 align="center">
-    <img src="github/lista.png"/>
+    <img src=".github/lista.png"/>
     
 </h1>
 
@@ -56,6 +56,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <p align="center">
   Made with 💙 by <a href="https://www.linkedin.com/in/natan-xavier-a266a0228/"> Natan Xavier </a>
 </p>
-=======
 
->>>>>>> 11d47fb802e7fa478f6aa1b73b48e96bdf719e2b
